@@ -1,0 +1,15 @@
+{
+  "name": "integration-example-travis-ci-nodejs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Your test worked perfectly.\""
+  },
+  "dependencies": {
+    "dotenv-vault-core": "^0.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
